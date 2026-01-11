@@ -101,9 +101,7 @@ Sistem aşağıdaki senaryoları destekler:
 - **Mesaj:** `"Geçersiz DSS parametreleri"`
 
 ## Veritabanı Yapısı
-
-ER diyagramı için bkz: [/docs/er-diagram.png](./docs/er-diagram.png)
-
+![ER Diyagramı](./supabaseerdiagrami.png)
 ### Tablolar
 
 - **firmalar**: Firma bilgileri (id, ad, ciro, atik_miktari, geri_donusum_orani)
